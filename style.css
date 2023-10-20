@@ -1,0 +1,25 @@
+body {
+    background-color: coral;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-align:center
+}
+
+p{ color: crimson;
+text-align: center;
+font-weight: 200;
+font-size: x-large;
+line-height: normal
+
+
+}
+h2{
+    color: navy;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    line-height: normal;
+
+}
